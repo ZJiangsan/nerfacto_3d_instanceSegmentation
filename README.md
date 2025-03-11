@@ -2,5 +2,8 @@
 generate 3d istance segmented object
 
 
-https://github.com/user-attachments/assets/1ddb9d69-9f77-4b59-9817-a4611fee99e2
+
+
+https://github.com/user-attachments/assets/c785a68e-ccdf-48f4-9524-0037493bd615
+
 
